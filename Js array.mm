@@ -1,0 +1,20 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1667832984363" ID="ID_1045507070" MODIFIED="1667937840047" TEXT="Js array">
+<node CREATED="1667833006679" ID="ID_1204869966" MODIFIED="1667833383287" POSITION="right" TEXT="array.filter()">
+<node CREATED="1667833387380" ID="ID_1378564563" MODIFIED="1667833397516" TEXT="zawsze tworzy now&#x105; tablice"/>
+</node>
+<node CREATED="1667833015149" ID="ID_1656285216" MODIFIED="1667833261766" POSITION="left" TEXT="array.map()">
+<node CREATED="1667833147451" ID="ID_1539284116" MODIFIED="1667833166394" TEXT="{content: chees}"/>
+<node CREATED="1667833221225" ID="ID_270697142" MODIFIED="1667833240204" TEXT="zawsze zwraca tyle samo elemnt&#xf3;w w tablicy"/>
+</node>
+<node CREATED="1667833540154" ID="ID_216491918" MODIFIED="1667833551029" POSITION="right" TEXT=".array.find()"/>
+<node CREATED="1667833649038" ID="ID_1554175733" MODIFIED="1667833663766" POSITION="left" TEXT="array.forEach">
+<node CREATED="1667833665270" ID="ID_1082419927" MODIFIED="1667833683632" TEXT="nic nie zwraca"/>
+</node>
+<node CREATED="1667835163907" ID="ID_1010373890" MODIFIED="1667835184755" POSITION="right" TEXT="tablica tablic tworzenei">
+<node CREATED="1667835186802" ID="ID_919914325" MODIFIED="1667835255911" TEXT="  tworznie   array2D[1] = [ ];"/>
+<node CREATED="1667835258608" ID="ID_528788272" MODIFIED="1667835283226" TEXT="wysi&#x105;ganie arrray [1] [3]"/>
+</node>
+</node>
+</map>

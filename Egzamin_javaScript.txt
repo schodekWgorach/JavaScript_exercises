@@ -1,0 +1,69 @@
+operator reszty.
+
+elemnty zwrócić operecje tablicową 
+rest operator.
+
+filtry
+mapa
+
+zmina struktury
+
+sort
+
+forEach
+
+============
+
+funkcje traraeba wywołać
+
+===============
+
+umiejątnośći pracy z klasami
+
+dziedzicząca 
+klasaowan
+
+kaczuszki 
+extends
+
+=============
+3 js
+3 react
+=============
+react tylko w funkcjach
+
+zwrócć z komponentu funkcyjnego
+
+opakowanie 3 elememtu w rodzica
+fragment
+
+==================
+
+props przekazanie danych przez propsy destrukuryzacje
+
+===============
+
+renderowania kolekcji elementów w 
+
+zadanie ze sklepem.
+=======================
+
+podpinanie w kolekcje elementów 
+  w koponęcie w elementach klucz
+
+zadanie 3 szhop liste zwracacie item zwracanie li ale bo elemenet w środku.
+======================
+
+zadanie 2 z egzaminu ork i off
+
+=====================
+punktacja na egzaminie
+1:2
+2:4
+3:6
+React
+4:1
+5:2
+6:5
+
+
