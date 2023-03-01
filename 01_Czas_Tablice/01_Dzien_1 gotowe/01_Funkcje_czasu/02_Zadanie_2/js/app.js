@@ -9,18 +9,16 @@ Jeśli licznik osiągnie wartość podaną do funkcji jako parametr,
 powinien zostać usunięty `setInterval`.
 
 */
-
-
 function countHello(iterator) {
     let counter = 1;
     const intervalID = setInterval(function () {
-        if (counter > iterator) {
+        if (counter > iterator*5) {
             clearInterval(intervalID);
         } else {
-            console.log('Hello ' + counter);
+            console.log('Hello == ' + counter + " ==  kolejna liczba  == " + counter*counter );
             counter++;
         }
     }, 1000);
 }
 
-countHello(8);
+countHello(12);
